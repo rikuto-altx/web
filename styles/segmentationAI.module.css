@@ -1,0 +1,20 @@
+.logoutButtonContainer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+  }
+  
+  .logoutButton {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .logoutButton:hover {
+    background-color: #d32f2f;
+  }
